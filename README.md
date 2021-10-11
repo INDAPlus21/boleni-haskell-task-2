@@ -1,0 +1,1 @@
+# boleni-haskell-task2
